@@ -1,5 +1,5 @@
 // Configuración de la API (Para producción se usan variables de entorno)
-const API_KEY = window.ENV?.TMDB_API_KEY || 'TU_API_KEY_AQUI'; 
+const API_KEY = window.ENV?.TMDB_API_KEY || 'e39a20cd1b3e614ec170db9333fa3c85'; 
 const BASE_URL = 'https://api.themoviedb.org/3';
 const IMG_URL = 'https://image.tmdb.org/t/p/w500';
 
